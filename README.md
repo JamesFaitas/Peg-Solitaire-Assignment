@@ -5,7 +5,7 @@ The user is asked to insert pegs on an empty board.
 Once the board is set up, a Depth-First search algorithm finds a possible solution. 
 The set of moves performed that resulted to a solution, are displayed to the user, step-by-step.
 
-Rules
+Rules - Open file to view pyramid
 -------------------------------------------------------------------------------------------------
 This game is a version of peg-solitaire, with 15 ‘holes’ spaced and indexed as follows.
                                              __
